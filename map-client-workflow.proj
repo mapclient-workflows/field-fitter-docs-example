@@ -1,0 +1,39 @@
+[General]
+version=0.17.1
+
+[view]
+scale=1.0000000000000002
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x9eL\0\0\0\0\0@\x94$\0\0\0\0\0)
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)
+
+[nodes]
+nodelist\1\source_uri=https://github.com/ABI-Software/mapclientplugins.fieldfitterstep
+nodelist\1\name=Field Fitter
+nodelist\1\position="@Variant(\0\0\0\x1a@{=K\x94\xc9\x99J@r\xbeK[\xff\x45\xbd)"
+nodelist\1\selected=false
+nodelist\1\identifier=Field Fitter
+nodelist\1\unique_identifier=c613d4f0-9e82-11ec-84ce-98e743652f19
+nodelist\1\connections\size=0
+nodelist\2\source_uri=https://github.com/mapclient-plugins/mapclientplugins.filechooserstep
+nodelist\2\name=File Chooser
+nodelist\2\position=@Variant(\0\0\0\x1a@j\0\0\0\0\0\0@l\xf0\0\0\0\0\0)
+nodelist\2\selected=false
+nodelist\2\identifier=Scaffold
+nodelist\2\unique_identifier=c9903dcd-9e82-11ec-97f3-98e743652f19
+nodelist\2\connections\1\connectedFromIndex=0
+nodelist\2\connections\1\connectedTo=0
+nodelist\2\connections\1\connectedToIndex=0
+nodelist\2\connections\1\selected=false
+nodelist\2\connections\size=1
+nodelist\3\source_uri=https://github.com/mapclient-plugins/mapclientplugins.filechooserstep
+nodelist\3\name=File Chooser
+nodelist\3\position=@Variant(\0\0\0\x1a@j7K#4\xf2\x36@wD\x96\xb7\xfe\x8b~)
+nodelist\3\selected=false
+nodelist\3\identifier=Data
+nodelist\3\unique_identifier=d938ed8a-9e82-11ec-81c7-98e743652f19
+nodelist\3\connections\1\connectedFromIndex=0
+nodelist\3\connections\1\connectedTo=0
+nodelist\3\connections\1\connectedToIndex=1
+nodelist\3\connections\1\selected=false
+nodelist\3\connections\size=1
+nodelist\size=3

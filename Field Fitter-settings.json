@@ -1,0 +1,27 @@
+{
+    "dataCoordinatesField": "data_coordinates",
+    "modelCoordinatesField": "coordinates",
+    "modelFitGroup": null,
+    "fibreField": null,
+    "diagnosticLevel": 1,
+    "fitFields": {
+        "coordinates": {
+            "fit": false
+        },
+        "data_coordinates": {
+            "fit": false
+        },
+        "pressure": {
+            "fit": true
+        },
+        "temperature": {
+            "fit": true
+        }
+    },
+    "gradient1Penalty": [
+        0.001
+    ],
+    "gradient2Penalty": [
+        0.001
+    ]
+}
