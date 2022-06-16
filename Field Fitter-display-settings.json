@@ -1,0 +1,21 @@
+{
+    "displayAxes": true,
+    "displayDataPoints": true,
+    "displayDataProjections": false,
+    "displayDataProjectionPoints": false,
+    "displayDataFieldLabels": "VALUE",
+    "displayFieldColourBar": true,
+    "displayFieldContours": true,
+    "displayFieldContoursCount": 10,
+    "displayNodePoints": false,
+    "displayNodeNumbers": false,
+    "displayElementNumbers": false,
+    "displayElementFieldPoints": false,
+    "displayElementAxes": false,
+    "displayLines": true,
+    "displayLinesExterior": false,
+    "displaySurfaces": true,
+    "displaySurfacesExterior": true,
+    "displaySurfacesTranslucent": true,
+    "displaySurfacesWireframe": false
+}
